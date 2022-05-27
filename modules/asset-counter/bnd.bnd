@@ -1,0 +1,4 @@
+Bundle-Name: asset-counter
+Bundle-SymbolicName: pt.unparallel.asset_counter
+Bundle-Version: 1.0.0
+Export-Package: pt.unparallel.asset_counter.constants
